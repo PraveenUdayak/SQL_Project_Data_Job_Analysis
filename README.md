@@ -19,7 +19,8 @@ To analyze the data there were mutliple tools used:
 - **SQL:** The main analysis tool I used and learned throughout this project, allowed me to query databases.
 - **PostgreSQL:** The database management system I used to handle the job posting data.
 - **Visual Studio Code:** Database management purposes and to execute my SQL queries.
--**Git and GitHub:** Allowed me to use version control and share my SQL scripts and analysis, reliably enabling project tracking.
+- **Git and GitHub:** Allowed me to use version control and share my SQL scripts and analysis, reliably enabling project tracking.
+- **ChatGPT:** Helped to make quick analysis of results as well as help with troubleshooting.
 
 # Analysis
 ### Query 1: What are the top-paying data analyst jobs?
@@ -187,7 +188,7 @@ This chart shows the results from the query:
 
 - Python and R offer a good balance of high demand and high salary—skills worth investing time into if you're aiming for upward mobility.
 
-# What I learned
+# What I Learned
 This project served as a practical capstone to reinforce my newly acquired SQL skills. By analyzing real job market data, I learned how to extract meaningful insights to answer a focused question: What are the most in-demand and high-paying skills for aspiring data analysts?
 
 Key Takeaways:
