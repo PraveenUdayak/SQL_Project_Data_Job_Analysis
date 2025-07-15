@@ -41,7 +41,7 @@ ORDER BY
     salary_year_avg DESC
 
 /*
-The results show that SQL was mentioned the msot followed by Tableau, R and Excel/Pandas
+The results show that SQL was mentioned the most followed by Tableau, R and Excel/Pandas
 This shows us that on average for the higher paying data analyst jobs we can expect SQL to be within the job description and probably Tableau as well
 
 */

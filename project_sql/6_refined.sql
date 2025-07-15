@@ -18,7 +18,7 @@ GROUP BY
     skills_dim.skill_id
 
 HAVING
-    COUNT(skills_job_dim.job_id)>10
+    COUNT(skills_job_dim.job_id)>50
 
 ORDER BY
     avg_salary DESC,
